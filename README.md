@@ -53,11 +53,11 @@ python3 multi_tcp_client.py
 
 ```
 
-- Repeat this step in additional terminals to connect multiple clients.
+Repeat this step in additional terminals to connect multiple clients.
 
 ---
 
-Usage
+Usage Tips
 
 - Type a message in any client terminal and press Enter
 
